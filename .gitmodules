@@ -1,0 +1,4 @@
+
+[submodule "Tracker2/SQLClass"]
+	path = Tracker2/SQLClass
+	url = git@github.com:bearhudson/SQLClass.git
